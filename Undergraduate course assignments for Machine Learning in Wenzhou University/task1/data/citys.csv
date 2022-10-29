@@ -1,0 +1,9 @@
+﻿city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Los Angeles,Los Angeles,34.1139,-118.4068,United States,US,USA,California,,12750807,1840020491
+San Francisco,San Francisco,37.7562,-122.443,United States,US,USA,California,,3592294,1840021543
+San Diego,San Diego,32.8312,-117.1225,United States,US,USA,California,,3220118,1840021990
+Riverside,Riverside,33.9381,-117.3948,United States,US,USA,California,,2107852,1840020551
+Sacramento,Sacramento,38.5667,-121.4683,United States,US,USA,California,admin,1898019,1840021491
+San Jose,San Jose,37.3019,-121.8486,United States,US,USA,California,,1798103,1840021570
+Fresno,Fresno,36.7831,-119.7941,United States,US,USA,California,,703498,1840020319
+Concord,Concord,37.9722,-122.0016,United States,US,USA,California,,652308,1840018905

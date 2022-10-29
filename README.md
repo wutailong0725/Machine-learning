@@ -1,5 +1,7 @@
 # Machine-learning
 there is my some code of ml.
-## Dir List And Introduction
-+ Undergraduate course assignments for Machine Learning in Wenzhou University
+## Folder list and introduction
+
++ Undergraduate course assignments for Machine Learning in Wenzhou University(MLinWZU)
+
 ++ This is the experiment of Huang Haiguang's machine learning course at Wenzhou University in 2022. My personal code.
